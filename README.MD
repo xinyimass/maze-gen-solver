@@ -9,7 +9,7 @@
 This program is designed to generate and solve mazes. It first generates a maze of a customized size and displays it on the console. It gives the solution if the user instructs it to do so. The generator and solver parts can be used separately.
 
 ### Generation
-The following classes generates a maze of a customized size.
+The following classes generate a maze of a customized size.
 
 - #### `Cell.java`
 A `Cell` is one square in the n*n grid that represents the maze. Each `Cell` has four `Wall`s which are either visible or invisible.
@@ -31,7 +31,7 @@ This classe contains the methods supported by the Union-Find data structure. It 
 
 ### Solve
 
-The following classes solves the maze.
+The following classes solve the maze.
 
 - #### `Node.java`
 
